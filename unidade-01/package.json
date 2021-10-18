@@ -1,0 +1,12 @@
+{
+  "name": "unidade-01-demo",
+  "version": "1.0.0",
+  "description": "Este e o projeto de demonstraçao de NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ollyver Ottoboni",
+  "license": "ISC"
+}
