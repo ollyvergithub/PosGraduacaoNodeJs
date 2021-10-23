@@ -1,0 +1,12 @@
+{
+  "name": "unidade-02-sistema-de-modulos-nodejs-demo-filesystem",
+  "version": "1.0.0",
+  "description": "Criando, utilizando e exportando modulos em NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ollyver Ottoboni",
+  "license": "ISC"
+}

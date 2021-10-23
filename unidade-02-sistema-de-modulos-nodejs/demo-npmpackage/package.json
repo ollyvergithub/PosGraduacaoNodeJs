@@ -1,0 +1,15 @@
+{
+  "name": "demo-npmpackage",
+  "version": "1.0.0",
+  "description": "Demonstraçao de criaçao de pacotes npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ollyver Ottoboni",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}
