@@ -1,0 +1,15 @@
+{
+  "name": "demo-express",
+  "version": "1.0.0",
+  "description": "Criando uma API com ExpressJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ollyver Ottoboni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
