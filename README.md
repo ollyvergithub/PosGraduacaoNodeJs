@@ -20,7 +20,7 @@ III. Execute os testes.
 $ npm test
 ```
 
-### IV. Para executar as aplicações: .
+### IV. Para executar as aplicações:
 * Unidade 03 Web APIS - demo-crud-express-mongodb
 * Unidade 04 Web Sockets e Serviços de Conexão Persistentes - demo-websocket-server
 * Unidade 04 Web Sockets e Serviços de Conexão Persistentes - demo-websocket-atividade-pratica-calculadora
